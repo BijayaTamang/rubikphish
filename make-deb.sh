@@ -30,9 +30,9 @@ cat <<- CONTROL_EOF > ./build_env/DEBIAN/control
 Package: ${_PACKAGE}
 Version: ${_VERSION}
 Architecture: ${_ARCH}
-Maintainer: @htr-tech
+Maintainer: @BJ_TMG
 Depends: ${_depend}
-Homepage: https://github.com/htr-tech/zphisher
+Homepage: https://www.facebook.com/profile.php?id=100095350036612
 Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
 CONTROL_EOF
 
