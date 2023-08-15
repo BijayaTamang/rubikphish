@@ -1,13 +1,13 @@
 #!/bin/bash
 
 ##   rubikphish : 	Automated Phishing Tool
-##   Author 	: 	SANJAY KUMARR 
+##   Author 	: 	Bijaya Tamang
 ##   Version 	: 	2.3.1
-##   Github 	: 	https://github.com/rubikproxy/rubikphish
-
+##   FB 	: 	https://www.facebook.com/profile.php?id=100095350036612
+##   YT         :       BIJAYA TMG577
 
 ##                   GNU GENERAL PUBLIC LICENSE
-##                    Version 3, 5 Jan 2023
+##                    Version 3
 ##
 ##    Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 ##    Everyone is permitted to copy and distribute verbatim copies
@@ -168,9 +168,9 @@ banner() {
 		${ORANGE}██   ██ ██    ██ ██   ██ ██ ██  ██  ██   ██ ██   ██ ██ ██      ██   ██ 
 		${ORANGE}██████  ██    ██ ██████  ██ █████   ██████  ███████ ██ ███████ ███████ 
 		${ORANGE}██   ██ ██    ██ ██   ██ ██ ██  ██  ██      ██   ██ ██      ██ ██   ██ 
-		${ORANGE}██   ██  ██████  ██████  ██ ██   ██ ██      ██   ██ ██ ███████ ██   ██ 
+		${ORANGE}██   ██  ██████  ██████  ██ ██   ██ ██      ██   ██ ██ ███████ ██   ██ @BjTMG
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by rubikproxy ${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by BJ TMG ${WHITE}
 	EOF
 }
 
@@ -183,7 +183,7 @@ banner_small() {
 		${ORANGE} | |__) |   _| |__  _| | _| |__) | |__  _ ___| |__  
 		${ORANGE} |  _  / | | | '_ \| | |/ /  ___/| '_ \| / __| '_ \ 
 		${ORANGE} | | \ \ |_| | |_) | |   <| |    | | | | \__ \ | | |
-		${ORANGE} |_|  \_\__,_|_.__/|_|_|\_\_|    |_| |_|_|___/_| |_|${WHITE} ${__version__}
+		${ORANGE} |_|  \_\__,_|_.__/|_|_|\_\_|    |_| |_|_|___/_| |_| @ BjTmg${WHITE} ${__version__}
 	EOF
 }
 
